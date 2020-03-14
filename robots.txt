@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ciocaekuu.petermcintyre.com/sitemap.xml
